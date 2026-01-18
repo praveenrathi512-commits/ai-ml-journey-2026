@@ -1,0 +1,8 @@
+Name | Age | City
+Praveen | 23 | Surat
+
+Amit | 25 | Mumbai
+
+Neha | 22 | Delhi
+
+Vanshika | 20 | Jorhat
