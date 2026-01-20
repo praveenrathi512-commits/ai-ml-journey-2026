@@ -1,0 +1,7 @@
+DATA ANALYSIS REPORT
+---------------------
+Average Age: 25.6
+
+People with age >= 25:
+Ravi (30) - Bangalore
+Sita (28) - Chennai
