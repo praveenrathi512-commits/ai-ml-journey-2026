@@ -1,6 +1,6 @@
 DATA ANALYSIS REPORT
 ---------------------
-Average Age: 25.6
+Average Age: 21.333333333333332
 
 People with age >= 25:
 Ravi (30) - Bangalore
